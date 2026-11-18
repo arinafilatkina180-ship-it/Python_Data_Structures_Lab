@@ -1,0 +1,14 @@
+Python cache
+pycache/
+*.py[cod]
+
+Virtual environments
+venv/
+.venv/
+
+IDE files
+.vs/
+
+Operating system files
+.DS_Store
+Thumbs.db
